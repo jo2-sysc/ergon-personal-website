@@ -1,0 +1,42 @@
+.title{
+	text-align: center;
+	padding-top: 50px;
+	text-transform: uppercase;
+}
+
+.border{
+	width: 180px;
+	heigth: 4px;
+	margin: 60px auto;
+	background: #333;
+}
+
+.button{
+	text-align: center;
+	height: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#input-task{
+	width: 80%;
+	margin: 0 auto;
+	display: none;
+}
+
+#input-task button{
+	text-align: center;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 40%;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+.instruction{
+	text-align: center;
+}
+
+.card{
+	margin-bottom: 20px;
+}
